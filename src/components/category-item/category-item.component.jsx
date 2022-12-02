@@ -19,8 +19,6 @@ const categoryItem = ({category}) =>{
 
         </div>
     
-   
-    
     )
 
 }
